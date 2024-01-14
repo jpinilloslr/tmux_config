@@ -7,7 +7,7 @@ Personalized Tmux configuration.
 Install config
 
 ```
-curl -L https://gist.githubusercontent.com/jpinilloslr/10724f0179fba01f1fd5584b16ea6c27/raw/launcher.sh >> ~/.tmux.conf
+curl -L https://raw.githubusercontent.com/jpinilloslr/tmux_config/master/.tmux.conf >> ~/.tmux.conf
 ```
 
 Install TPM
